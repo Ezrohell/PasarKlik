@@ -1,6 +1,3 @@
-Here is a complete `README.md` for **PasarKlik**, written in English. You can copy-paste it directly into your project.
-
-```markdown
 # PasarKlik
 
 > Daily food price catalog by region. Offline-first, no ads, no tracking.
